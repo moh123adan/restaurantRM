@@ -1,0 +1,15 @@
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\bin\Debug\RestaurantManagment.exe.config
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\bin\Debug\RestaurantManagment.exe
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\bin\Debug\RestaurantManagment.pdb
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\bin\Debug\Guna.UI.dll
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\bin\Debug\Guna.UI2.dll
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.csproj.AssemblyReference.cache
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.Properties.Resources.resources
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.csproj.GenerateResource.cache
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.csproj.CoreCompileInputs.cache
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.csproj.CopyComplete
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.exe
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.pdb
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.Users.resources
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.Items.resources
+C:\Users\saxar\source\repos\RestaurantManagment\RestaurantManagment\obj\Debug\RestaurantManagment.Categories.resources
